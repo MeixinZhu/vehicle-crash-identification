@@ -1,7 +1,7 @@
 # Real-Time Crash Identification using Connected Electric Vehicle Operation Data.
 Official code for the following paper:    
 
-Zhu, Meixin, Hao Frank Yang, Chenxi Liu, Ziyuan Pu, and Yinhai Wang. "Real-time crash identification using connected electric vehicle operation data." Accident Analysis & Prevention 173 (2022): 106708.
+[Zhu, Meixin, Hao Frank Yang, Chenxi Liu, Ziyuan Pu, and Yinhai Wang. "Real-time crash identification using connected electric vehicle operation data." Accident Analysis & Prevention 173 (2022): 106708.](https://www.sciencedirect.com/science/article/pii/S0001457522001440)
 
 # Run the Code
 - Download raw data from https://www.datafountain.cn/competitions/500/datasets and put the data under raw_data. For example, the path would be like this: `raw_data/train/1.csv`.
